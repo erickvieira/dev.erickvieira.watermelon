@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- APP COLORS -->
+    <color name="colorAccentLight">#ff6659</color>
+    <color name="colorAccent">#d32f2f</color>
+    <color name="colorAccentDark">#9a0007</color>
+
+    <color name="colorPrimaryLight">#4ebaaa</color>
+    <color name="colorPrimary">#00897b</color>
+    <color name="colorPrimaryDark">#005b4f</color>
+
+    <!-- STATUS COLORS -->
+    <color name="colorDangerLight">#ff6643</color>
+    <color name="colorDanger">#d03117</color>
+    <color name="colorDangerDark">#970000</color>
+
+    <color name="colorWarningLight">#ffc947</color>
+    <color name="colorWarning">#ff9800</color>
+    <color name="colorWarningDark">#c66900</color>
+
+    <color name="colorSuccessLight">#5df683</color>
+    <color name="colorSuccess">#00c254</color>
+    <color name="colorSuccessDark">#009026</color>
+
+    <!-- TEXT AND BG COLORS -->
+    <color name="colorSunrise">#efebe9</color>
+    <color name="colorSundown">#454240</color>
+
+    <color name="colorMidnightLight">#767e8d</color>
+    <color name="colorMidnight">#4a5260</color>
+    <color name="colorMidnightDark">#222a36</color>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527493433520",
+    "firebase_url": "https://fftdb-10a79.firebaseio.com",
+    "project_id": "fftdb-10a79",
+    "storage_bucket": "fftdb-10a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527493433520:android:e9d9330869e9a1f4241375",
+        "android_client_info": {
+          "package_name": "dev.erickvieira.watermelon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527493433520-vi4r21b8um0vkg2fktr6vj5o4fhd58mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChJ1OOZiAfs5Pb09pKEDkIZiZHbwl6-2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527493433520-vi4r21b8um0vkg2fktr6vj5o4fhd58mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
